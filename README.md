@@ -1,4 +1,4 @@
-# WinPrivCheck
+# PowerHigh - WinPrivCheck
 
 Windows privilege escalation enumeration and exploitation script for authorized penetration testing engagements.
 
